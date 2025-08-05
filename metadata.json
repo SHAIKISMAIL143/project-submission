@@ -1,0 +1,5 @@
+{
+  "name": "Ismail's Digital Drop",
+  "description": "A web application for internet cafes and print shops to replace USB/email file transfers. Customers can easily upload files, and the shop owner can manage a printing queue, download files, and use AI to analyze document properties.",
+  "requestFramePermissions": []
+}
